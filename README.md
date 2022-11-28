@@ -79,6 +79,8 @@ public class program
 ```
 
 ## Output:
+![newp1](https://user-images.githubusercontent.com/94233064/204335363-e9906089-14d4-4fa6-b797-cbe90fcececd.png)
+
 
 ## Result:
 C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully.
